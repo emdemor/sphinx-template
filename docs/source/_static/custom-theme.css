@@ -1,0 +1,27 @@
+.wy-side-nav-search, .wy-nav-top {
+  background: #0e0e0e;
+}
+
+.wy-menu-vertical header, .wy-menu-vertical p.caption {
+color: #ba2121;
+}
+
+
+.wy-nav-content a {
+color: #ba2121;
+}
+
+.wy-nav-content {
+  max-width: 1400px;
+}
+
+html.writer-html5 .rst-content dl[class]:not(.option-list):not(.field-list):not(.footnote):not(.glossary):not(.simple)>dt {
+  background: #fff2f2;
+  color: #b93434;
+  border-top: 3px solid #d24d4d;
+  display: block;
+}
+
+.rst-content .viewcode-link {
+  color: #3c78e7;
+} 
